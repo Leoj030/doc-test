@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Docs Test",
   description: "This is a test for documentation",
-  base: '/nova-framework/',
+  base: '/doc-test/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
